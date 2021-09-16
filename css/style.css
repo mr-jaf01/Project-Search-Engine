@@ -1,0 +1,33 @@
+header{
+    
+}
+
+header img{
+    height: 120px;
+    width: 120px;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+header nav ul li a:hover{
+    background-color:red;
+    color:black;
+}
+
+.our_team img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
